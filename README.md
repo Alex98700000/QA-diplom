@@ -1,7 +1,7 @@
 # QA-diplom
 
 #### Документы
- - [План тестирования](https://github.com/
+ - [План тестирования](https://github.com/Alex98700000/QA-diplom/commit/e815e13bcaff2b4662bf4fa2808e73597d210708)
  - [Отчет по итогам тестирования](https://github.com/
  - [Отчет по итогам автоматизации](https://github.com/
  

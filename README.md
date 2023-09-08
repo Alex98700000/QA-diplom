@@ -1,7 +1,7 @@
 # QA-diplom
 
 #### Документы
- - [План тестирования](documentation/Plan.md)
+ - [План тестирования](https://github.com/Alex98700000/QA-diplom/blob/main/documents/Plan.md)
  - [Отчет по итогам тестирования](https://github.com/
  - [Отчет по итогам автоматизации](https://github.com/
  

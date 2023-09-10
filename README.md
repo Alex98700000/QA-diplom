@@ -2,8 +2,8 @@
 
 #### Документы
  - [План тестирования](https://github.com/Alex98700000/QA-diplom/blob/main/documents/Plan.md)
- - [Отчет по итогам тестирования]https://github.com/Alex98700000/QA-diplom/blob/main/documents/Report.md
- - [Отчет по итогам автоматизации]https://github.com/Alex98700000/QA-diplom/blob/main/documents/Summary.md
+ - [Отчет по итогам тестирования](https://github.com/Alex98700000/QA-diplom/blob/main/documents/Report.md)
+ - [Отчет по итогам автоматизации](https://github.com/Alex98700000/QA-diplom/blob/main/documents/Summary.md)
  
 #### Описание приложения
 Приложение представляет из себя веб-сервис "Путешествие дня".
